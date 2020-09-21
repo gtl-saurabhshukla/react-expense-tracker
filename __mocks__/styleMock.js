@@ -1,0 +1,1 @@
+// This file is like a placeholder for css mocking. It's to be used for the JESt test cases.
